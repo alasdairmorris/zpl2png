@@ -4,7 +4,7 @@ A small pure-Go command-line utility that reads ZPL (Zebra Programming Language)
 
 ## Installation
 
-`zpl2png` will run on most Linux, MacOS and Windows systems.
+`zpl2png` will run on most Linux and MacOS systems.
 
 To install it, just `cd` into the directory in which you wish to install it and then copy-paste the appropriate one-liner from below.
 
