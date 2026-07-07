@@ -32,18 +32,6 @@ curl -s -L -o zpl2png https://github.com/alasdairmorris/zpl2png/releases/latest/
 curl -s -L -o zpl2png https://github.com/alasdairmorris/zpl2png/releases/latest/download/zpl2png-darwin-arm64 && chmod +x zpl2png
 ```
 
-### Windows (32-bit)
-
-```
-curl -s -L -o zpl2png.exe https://github.com/alasdairmorris/zpl2png/releases/latest/download/zpl2png-windows-386.exe
-```
-
-### Windows (64-bit)
-
-```
-curl -s -L -o zpl2png.exe https://github.com/alasdairmorris/zpl2png/releases/latest/download/zpl2png-windows-amd64.exe
-```
-
 ## Usage
 
 ```sh
